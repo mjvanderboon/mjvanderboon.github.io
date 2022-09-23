@@ -1,6 +1,6 @@
 ---
 title: "Hyperloop - Lead Propulsion Engineer"
-excerpt: "After my bachelor's, I spent a year as lead propulsion engineer in the Delft Hyperloop DreamTeam.<br/><img src='/images/tsp.png'>"
+excerpt: "After my bachelor's, I spent a year as lead propulsion engineer in the Delft Hyperloop DreamTeam.<br/><img src='/images/hyperloop.png'>"
 collection: portfolio
 ---
 

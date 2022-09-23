@@ -1,6 +1,6 @@
 ---
 title: "Ball balancer"
-excerpt: "A project during my bachelor where I was responsible for perception and control.<br/><img src='/images/tsp.png'>"
+excerpt: "A project during my bachelor where I was responsible for perception and control.<br/><img src='/images/ballbalancer.png'>"
 collection: portfolio
 ---
 
