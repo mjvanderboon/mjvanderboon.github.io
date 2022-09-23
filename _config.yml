@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthijs van der Boon / Site Title"
+title                    : "Matthijs van der Boon"
 title_separator          : "-"
 name                     : &name "Matthijs van der Boon"
 description              : &description "personal description"
