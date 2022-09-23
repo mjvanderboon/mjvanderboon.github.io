@@ -9,3 +9,5 @@ Reinforcement learning for robotics usually entails extensive reward engineering
 As a platform this research, the ANYmal on Wheels robot is used. This versatile wheeled-legged robot has previously shown to be capable to stand up on the hind legs, freeing up the front legs for object manipulation.
 
 In the thesis my responsibilities include setting up the RL task formulation, researching and developing curiosity-based exploration methods, as well as integrating the camera hardware required for the package grabbing task onto the existing ANYmal on wheels robot.
+
+<img src='/images/package_manipulation_resized.png'>
