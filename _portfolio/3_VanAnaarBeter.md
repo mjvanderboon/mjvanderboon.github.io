@@ -7,6 +7,6 @@ collection: portfolio
 For my final project in high school, I wanted to work with AI. I was always fascinated by videos of AI solving complex tasks and I wanted to see what I could do. We chose the well-known travelling salesman problem and tried to approach it using the concept of genetic algorithms. We developed an GUI in C# as an interface and the results were better than we expected! The video below explains the application in more detail.
 
 <video width="640" height="480" controls>
-    <source src="tsp.mp4" type="video/mp4">
+    <source src="/images/tsp.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
