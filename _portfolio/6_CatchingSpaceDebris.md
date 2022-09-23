@@ -1,6 +1,6 @@
 ---
 title: "Catching Space Debris using Reinforcement Learning"
-excerpt: "During my master's, I worked on a project for catching space debris.<br/><img src='/images/tsp.png'>"
+excerpt: "During my master's, I worked on a project for catching space debris.<br/><img src='/images/tsp_resized.png'>"
 collection: portfolio
 ---
 

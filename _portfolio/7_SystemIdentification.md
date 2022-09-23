@@ -1,6 +1,6 @@
 ---
-title: "Ball balancer"
-excerpt: "A project during my bachelor where I was responsible for perception and control.<br/><img src='/images/ballbalancer.png'>"
+title: "System Identification for an autonomous drone"
+excerpt: "For my bachelor's thesis, my project group performed system identification for an autonomous drone<br/><img src='/images/tsp_resized.png'>"
 collection: portfolio
 ---
 

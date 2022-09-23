@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Augmented Avatars"
-excerpt: "At TNO, I worked on deep learning augmented avatars for VR applications. My work was published to the ACM Conference on Interactive Media Experiences (IMX 22).<br/><img src='/images/style_transferred_eyes.png'>"
+excerpt: "At TNO, I worked on deep learning augmented avatars for VR applications. My work was published to the ACM Conference on Interactive Media Experiences (IMX 22).<br/><img src='/images/style_transferred_eyes_resized.png'>"
 collection: portfolio
 ---
 

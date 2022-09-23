@@ -1,6 +1,6 @@
 ---
 title: "Genetic algorithms applied to the Travelling Salesman Problem"
-excerpt: "In high school, I used genetic algorithms to generate solutions for the travelling salesman problem.<br/><img src='/images/tsp.png'>"
+excerpt: "In high school, I used genetic algorithms to generate solutions for the travelling salesman problem.<br/><img src='/images/tsp_resized.png'>"
 collection: portfolio
 ---
 

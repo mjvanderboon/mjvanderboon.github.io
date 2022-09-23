@@ -1,6 +1,6 @@
 ---
 title: "Package grabbing using ANYmal on Wheels"
-excerpt: "My master thesis in the Robotic Systems Lab at ETH Zurich focuses on using reinforcement learning with curiosity-based exploration for package grabbing using ANYmal on Wheels.<br/><img src='/images/package_manipulation.png'>"
+excerpt: "My master thesis in the Robotic Systems Lab at ETH Zurich focuses on using reinforcement learning with curiosity-based exploration for package grabbing using ANYmal on Wheels.<br/><img src='/images/package_manipulation_resized.png'>"
 collection: portfolio
 ---
 
