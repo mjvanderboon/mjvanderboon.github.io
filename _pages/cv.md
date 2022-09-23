@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV](http://mjvanderboon.github.io/files/CV_2022_September.pdf)
+
 Education
 ======
 * Master in Robotics, Systems and Control, ETH Zurich, 2020-current
