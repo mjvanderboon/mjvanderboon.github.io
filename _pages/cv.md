@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](http://mjvanderboon.github.io/files/CV_2022_September.pdf)
+[Full CV](http://mjvanderboon.github.io/files/CV_MatthijsVanDerBoon.pdf)
 
 Education
 ======
-* Master in Robotics, Systems and Control, ETH Zurich, 2020-current
+* Master in Robotics, Systems and Control, ETH Zurich, 2020-2023
 * Bachelor in Mechanical Engineering, Delft University of Technology, 2016-2019
 * Minor, University of British Columbia, 2018
 * VWO, Stedelijk Gymnasium Leiden, 2010-2016
