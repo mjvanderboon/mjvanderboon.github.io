@@ -3,7 +3,7 @@ title: "Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks"
 collection: publications
 permalink: /publication/2023-curiosity-driven-learning
 excerpt: 'From my thesis, a follow-up research was conducted on curiosity-based reinforcement learning for robotics and published by the Robotic Systems Lab in Zurich.'
-date: 2023
+date: 2023-10-01
 venue: 'Proceedings of The 7th Conference on Robot Learning'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3505284.3532976'
 citation: 'Clemens Schwarke, Victor Klemm, Matthijs Van der Boon, Marko Bjelonic, Marco Hutter. (2023). &quot;Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks</i>. 1(1).'
