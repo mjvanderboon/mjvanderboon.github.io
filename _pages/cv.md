@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](http://mjvanderboon.github.io/files/CV_MatthijsVanDerBoon.pdf)
-
 Education
 ======
 * Master in Robotics, Systems and Control, ETH Zurich, 2020-2023
@@ -20,6 +18,7 @@ Education
 
 Work experience
 ======
+* Associate at BCG, 2024
 * Research intern at TNO, Dutch organisation for Applied Scientific Research, 2021
 * Lead propulsion engineer, Delft Hyperloop, 2019-2020
 * Teaching assistant for dynamics and thermodynamics courses, 2018-2019
