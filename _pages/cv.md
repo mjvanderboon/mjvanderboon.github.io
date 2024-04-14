@@ -19,6 +19,7 @@ Education
 Work experience
 ======
 * Associate at BCG, 2024
+* AI Developer at Stekker, 2023
 * Research intern at TNO, Dutch organisation for Applied Scientific Research, 2021
 * Lead propulsion engineer, Delft Hyperloop, 2019-2020
 * Teaching assistant for dynamics and thermodynamics courses, 2018-2019
